@@ -1,4 +1,4 @@
-## Human temporal routine behavioral analysis: Case Study
+## Bellabeat Fitness Trackers Analysis: Case Study
 
 As part of Google Data Analytics course, the case study is done on Bellabeat Fitness data (dataset available: [here](https://www.kaggle.com/arashnic/fitbit)). 
 
